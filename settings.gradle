@@ -1,0 +1,2 @@
+include ':app', ':sdkui'
+project(':sdkui').projectDir = new File('app/libs/Android-SDK-Sample-App-master/sdkui')
